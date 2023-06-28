@@ -1,0 +1,9 @@
+body{
+    background-color:slategrey;
+    color: black;}
+
+    img {
+
+        max-width: 300px;
+        max-height: 300px;
+    }
